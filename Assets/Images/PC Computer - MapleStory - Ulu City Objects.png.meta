@@ -1,0 +1,2525 @@
+fileFormatVersion: 2
+guid: 04edc06158f2a9846885210f1edad7b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Ulu City Objects_0
+    21300002: PC Computer - MapleStory - Ulu City Objects_1
+    21300004: PC Computer - MapleStory - Ulu City Objects_2
+    21300006: PC Computer - MapleStory - Ulu City Objects_3
+    21300008: PC Computer - MapleStory - Ulu City Objects_4
+    21300010: PC Computer - MapleStory - Ulu City Objects_5
+    21300012: PC Computer - MapleStory - Ulu City Objects_6
+    21300014: PC Computer - MapleStory - Ulu City Objects_7
+    21300016: PC Computer - MapleStory - Ulu City Objects_8
+    21300018: PC Computer - MapleStory - Ulu City Objects_9
+    21300020: PC Computer - MapleStory - Ulu City Objects_10
+    21300022: PC Computer - MapleStory - Ulu City Objects_11
+    21300024: PC Computer - MapleStory - Ulu City Objects_12
+    21300026: PC Computer - MapleStory - Ulu City Objects_13
+    21300028: PC Computer - MapleStory - Ulu City Objects_14
+    21300030: PC Computer - MapleStory - Ulu City Objects_15
+    21300032: PC Computer - MapleStory - Ulu City Objects_16
+    21300034: PC Computer - MapleStory - Ulu City Objects_17
+    21300036: PC Computer - MapleStory - Ulu City Objects_18
+    21300038: PC Computer - MapleStory - Ulu City Objects_19
+    21300040: PC Computer - MapleStory - Ulu City Objects_20
+    21300042: PC Computer - MapleStory - Ulu City Objects_21
+    21300044: PC Computer - MapleStory - Ulu City Objects_22
+    21300046: PC Computer - MapleStory - Ulu City Objects_23
+    21300048: PC Computer - MapleStory - Ulu City Objects_24
+    21300050: PC Computer - MapleStory - Ulu City Objects_25
+    21300052: PC Computer - MapleStory - Ulu City Objects_26
+    21300054: PC Computer - MapleStory - Ulu City Objects_27
+    21300056: PC Computer - MapleStory - Ulu City Objects_28
+    21300058: PC Computer - MapleStory - Ulu City Objects_29
+    21300060: PC Computer - MapleStory - Ulu City Objects_30
+    21300062: PC Computer - MapleStory - Ulu City Objects_31
+    21300064: PC Computer - MapleStory - Ulu City Objects_32
+    21300066: PC Computer - MapleStory - Ulu City Objects_33
+    21300068: PC Computer - MapleStory - Ulu City Objects_34
+    21300070: PC Computer - MapleStory - Ulu City Objects_35
+    21300072: PC Computer - MapleStory - Ulu City Objects_36
+    21300074: PC Computer - MapleStory - Ulu City Objects_37
+    21300076: PC Computer - MapleStory - Ulu City Objects_38
+    21300078: PC Computer - MapleStory - Ulu City Objects_39
+    21300080: PC Computer - MapleStory - Ulu City Objects_40
+    21300082: PC Computer - MapleStory - Ulu City Objects_41
+    21300084: PC Computer - MapleStory - Ulu City Objects_42
+    21300086: PC Computer - MapleStory - Ulu City Objects_43
+    21300088: PC Computer - MapleStory - Ulu City Objects_44
+    21300090: PC Computer - MapleStory - Ulu City Objects_45
+    21300092: PC Computer - MapleStory - Ulu City Objects_46
+    21300094: PC Computer - MapleStory - Ulu City Objects_47
+    21300096: PC Computer - MapleStory - Ulu City Objects_48
+    21300098: PC Computer - MapleStory - Ulu City Objects_49
+    21300100: PC Computer - MapleStory - Ulu City Objects_50
+    21300102: PC Computer - MapleStory - Ulu City Objects_51
+    21300104: PC Computer - MapleStory - Ulu City Objects_52
+    21300106: PC Computer - MapleStory - Ulu City Objects_53
+    21300108: PC Computer - MapleStory - Ulu City Objects_54
+    21300110: PC Computer - MapleStory - Ulu City Objects_55
+    21300112: PC Computer - MapleStory - Ulu City Objects_56
+    21300114: PC Computer - MapleStory - Ulu City Objects_57
+    21300116: PC Computer - MapleStory - Ulu City Objects_58
+    21300118: PC Computer - MapleStory - Ulu City Objects_59
+    21300120: PC Computer - MapleStory - Ulu City Objects_60
+    21300122: PC Computer - MapleStory - Ulu City Objects_61
+    21300124: PC Computer - MapleStory - Ulu City Objects_62
+    21300126: PC Computer - MapleStory - Ulu City Objects_63
+    21300128: PC Computer - MapleStory - Ulu City Objects_64
+    21300130: PC Computer - MapleStory - Ulu City Objects_65
+    21300132: PC Computer - MapleStory - Ulu City Objects_66
+    21300134: PC Computer - MapleStory - Ulu City Objects_67
+    21300136: PC Computer - MapleStory - Ulu City Objects_68
+    21300138: PC Computer - MapleStory - Ulu City Objects_69
+    21300140: PC Computer - MapleStory - Ulu City Objects_70
+    21300142: PC Computer - MapleStory - Ulu City Objects_71
+    21300144: PC Computer - MapleStory - Ulu City Objects_72
+    21300146: PC Computer - MapleStory - Ulu City Objects_73
+    21300148: PC Computer - MapleStory - Ulu City Objects_74
+    21300150: PC Computer - MapleStory - Ulu City Objects_75
+    21300152: PC Computer - MapleStory - Ulu City Objects_76
+    21300154: PC Computer - MapleStory - Ulu City Objects_77
+    21300156: PC Computer - MapleStory - Ulu City Objects_78
+    21300158: PC Computer - MapleStory - Ulu City Objects_79
+    21300160: PC Computer - MapleStory - Ulu City Objects_80
+    21300162: PC Computer - MapleStory - Ulu City Objects_81
+    21300164: PC Computer - MapleStory - Ulu City Objects_82
+    21300166: PC Computer - MapleStory - Ulu City Objects_83
+    21300168: PC Computer - MapleStory - Ulu City Objects_84
+    21300170: PC Computer - MapleStory - Ulu City Objects_85
+    21300172: PC Computer - MapleStory - Ulu City Objects_86
+    21300174: PC Computer - MapleStory - Ulu City Objects_87
+    21300176: PC Computer - MapleStory - Ulu City Objects_88
+    21300178: PC Computer - MapleStory - Ulu City Objects_89
+    21300180: PC Computer - MapleStory - Ulu City Objects_90
+    21300182: PC Computer - MapleStory - Ulu City Objects_91
+    21300184: PC Computer - MapleStory - Ulu City Objects_92
+    21300186: PC Computer - MapleStory - Ulu City Objects_93
+    21300188: PC Computer - MapleStory - Ulu City Objects_94
+    21300190: PC Computer - MapleStory - Ulu City Objects_95
+    21300192: PC Computer - MapleStory - Ulu City Objects_96
+    21300194: PC Computer - MapleStory - Ulu City Objects_97
+    21300196: PC Computer - MapleStory - Ulu City Objects_98
+    21300198: PC Computer - MapleStory - Ulu City Objects_99
+    21300200: PC Computer - MapleStory - Ulu City Objects_100
+    21300202: PC Computer - MapleStory - Ulu City Objects_101
+    21300204: PC Computer - MapleStory - Ulu City Objects_102
+    21300206: PC Computer - MapleStory - Ulu City Objects_103
+    21300208: PC Computer - MapleStory - Ulu City Objects_104
+    21300210: PC Computer - MapleStory - Ulu City Objects_105
+    21300212: PC Computer - MapleStory - Ulu City Objects_106
+    21300214: PC Computer - MapleStory - Ulu City Objects_107
+    21300216: PC Computer - MapleStory - Ulu City Objects_108
+    21300218: PC Computer - MapleStory - Ulu City Objects_109
+    21300220: PC Computer - MapleStory - Ulu City Objects_110
+    21300222: PC Computer - MapleStory - Ulu City Objects_111
+    21300224: PC Computer - MapleStory - Ulu City Objects_112
+    21300226: PC Computer - MapleStory - Ulu City Objects_113
+    21300228: PC Computer - MapleStory - Ulu City Objects_114
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6823
+        width: 182
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d269180e3becd418d9c1734ade35a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6823
+        width: 88
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7ec2d3c2d66c94988e0fb2ed85d4fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 6823
+        width: 88
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9d54b6af401e4caf2a1f1865d430a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 6823
+        width: 169
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4851e498de039aa4ea111784adcf399b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 6823
+        width: 91
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a5e38d73229414da0c2f5dad3f9a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6823
+        width: 214
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891137e978c7d134a8910800abd41e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_6
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 6823
+        width: 95
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0fea3c3f8ef694d8213de58671dbd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 6823
+        width: 75
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760dacdb64209b949a68b3b44b9b79b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_8
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 6823
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c9d1ee0b27724781aba4a938fc784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_9
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 6823
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4f08d2203b314fa97862ec28918d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_10
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 6823
+        width: 47
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12798ecb3f274b41a4d2d3ed87c85d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_11
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 6823
+        width: 47
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f486b4c5c49f408cf139cf7f1c5d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6492
+        width: 331
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403bd516a5de5024bab511992e176da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 6492
+        width: 217
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d446444a37004986324c3007cd043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 6492
+        width: 77
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2244141dbd054abeed033fc36141f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 6492
+        width: 78
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64696dffa36302498a4318b74d627cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 6492
+        width: 72
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee45262040fd834ea3663ea11e51651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_17
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 6492
+        width: 385
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928536d6bb351bd4e8366ee124a54393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_18
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 6488
+        width: 224
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519c139e4899a4429e2d112d47a808a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6140
+        width: 321
+        height: 318
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55589beea3fd85d47925fdf18b1f9cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 6312
+        width: 206
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86181f1cd262042479e484ed102410af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 6167
+        width: 92
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f3bfd4c6be82d42bd62ed17be6fe06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6167
+        width: 98
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76d3a676479de44900c293e4f4fbdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 6167
+        width: 91
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4258d32a3ed634387f2da7a899b0ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6167
+        width: 92
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e7acef5f371c459ff042eca0c5806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 6167
+        width: 182
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca996819fc0cce4ebbb4e5a10c2b4d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_26
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 6163
+        width: 207
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2456f0789747a74da6283676499c3b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_27
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 6163
+        width: 224
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250886a7ce50d434bb0d716484349a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5883
+        width: 75
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74306b7d5a13d2042b7852f2367e7461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5883
+        width: 122
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b2153ca2663c2419aeaed13977c64c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5883
+        width: 109
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be72dd5d662f4fa43b90cbeff09b81e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_31
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5883
+        width: 78
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2aca3a5e446554891e8ea6b44dc874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 5883
+        width: 41
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06cc6b37fa9cb4b8b05ebae31f1e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5883
+        width: 112
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b0fbe633c0087419f17c0856cc2d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_34
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 5883
+        width: 47
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502b1ea811deec43bae02355997f715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_35
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 5883
+        width: 61
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a267ae5d2a339284e928a7bfc41f28d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_36
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 5883
+        width: 61
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4458ee0cd3449459640a5e3bf73896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 5883
+        width: 85
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9905310563cfe743921676c1daaad02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_38
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 5883
+        width: 85
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d20acf869d52489a88c4803883987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_39
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 5883
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea021a62b2224945a6f8cde1dc43c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_40
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 5883
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a005df11231c4abf06a28837833f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_41
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 5883
+        width: 88
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd71727d6baa6498afbcc700580065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_42
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 5883
+        width: 82
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd04ded1ef40af47a104b3fae37d9ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5734
+        width: 108
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3cb6852d39b134daa895b1a8c96d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5730
+        width: 220
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b92e7d8cfe95549b18d4388cc22f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5730
+        width: 122
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54841fd6c11d63b4db8d403fe3054c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_46
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 5730
+        width: 61
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711d2b64d02d0549829d1b427fc56ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 5734
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df5c274c4810a4fa9b989ece01946a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 5734
+        width: 99
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c4ace5f403e0d44b09704593b10ed6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_49
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 5734
+        width: 55
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077f13a349d1994b88e1941cc01d87b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_50
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5734
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a00c82f9e8d9543bdc9d3b552d8405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_51
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 5734
+        width: 51
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b381e3279e1b6c847a92c7d01c3333f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_52
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 5734
+        width: 85
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7799032a9b153479fde8b83b417554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_53
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 5734
+        width: 91
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a7850497d56f448b2b53ab9d72e3f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_54
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 5734
+        width: 92
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd975e14388bc14694671e7633a7b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_55
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 5734
+        width: 102
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db5dc4a1e9a6745839211c7bda98bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_56
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 5734
+        width: 88
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f54da7721154b43af2e56ed79ce639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5609
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa379de64352943a364eacabc2b763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5609
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5b54c6e4ebb04f93f827dde9af3f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_59
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5609
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed87e353141214b9cdf276aea9f930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_60
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5609
+        width: 99
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d515f87ad56e04f90f4eae989d8c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 5609
+        width: 51
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028628f2768c4a44a8155d4057c21ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_62
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5609
+        width: 88
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df530e7a87fcf6849967002d3c1689f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5609
+        width: 105
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d04a7fec13a5a4c9f6114357e60398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_64
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 5609
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8cf6123e732943814a63bf7869138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_65
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 5237
+        width: 372
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a891b21b863e478672e92d9f0dcc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5237
+        width: 267
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cef6f3d0293ae42adeb9f9c235b713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_67
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5237
+        width: 281
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccb50ebf944154fab39c596bb05017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5176
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb275da929b207499929611e2402a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5176
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde5935a2d753540a3e8c186ae5152c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5142
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeba8c8bf72d71449220f3cd4132d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_71
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5142
+        width: 65
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a26aa90a3e934d99d3a08f7f32a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_72
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5142
+        width: 65
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098bd877f7f641141bf4997cc4235f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_73
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5128
+        width: 68
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2e74586dd79b438a3a62bfb63af9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_74
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5179
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255957c03f0b1f5459b63489a1eb2201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_75
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5142
+        width: 20
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2ae3de6bfa61419855cb60ffef0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_76
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 5142
+        width: 20
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38019843cb1eb4b8b1abba5636b1d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5115
+        width: 17
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3d567ce5cab04f8d06500908d8702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_78
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 5172
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb158d096977c45b54cfa73cc99d03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_79
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 5142
+        width: 20
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae9044fe2cb0ee4f97a9e1418827747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_80
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 5142
+        width: 20
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f550f544f87242b190098c4281f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_81
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 5142
+        width: 17
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be4e76c07e05f47a47959a8655aa42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_82
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 5142
+        width: 21
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3568cec3a1c8a479ee567a386240b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_83
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 5125
+        width: 20
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43daa497012b174eb380984c96c6da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_84
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5142
+        width: 20
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3834106a793a938498461a5bee797e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_85
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5142
+        width: 20
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b9e372bf1cd5a4f993a8272b260471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_86
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 5142
+        width: 17
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce3c2100dc6470489ef014fdcd93d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_87
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5142
+        width: 21
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b2cc274d15d64faa58d6e3ff43399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_88
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 5142
+        width: 21
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12e4f64bdb17448bfb6375e08ece76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_89
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 5125
+        width: 48
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5749f20dbbd74bb76295d747a28a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_90
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5145
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf9e1cae36fbf340b4a7bafd648b75c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_91
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 5176
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06570a30b7feb874092fe3dc2b5ae900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_92
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 5179
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3911cf41de9e044a7340cdda2481fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_93
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 5162
+        width: 10
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143880bb9e7ceb4994a2fe65b2ad9d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_94
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 5182
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e09381ec0ff0c4485ea64baca8864a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_95
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 5044
+        width: 61
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e08a2bfa30c6f42a00bfbae162eb5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_96
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 5003
+        width: 24
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37960b78790384b8e142b09ec4d9a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_97
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 5071
+        width: 13
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acacfaa0e2ee5724b9beec52c142e6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_98
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 5162
+        width: 71
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbe3f2b8d4516247a01a8fb0e46a8c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_99
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 5162
+        width: 68
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f988f42a6f1722349bacc0af22becdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_100
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4662
+        width: 396
+        height: 422
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60d29d339131e946b69ae52afe5aeb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_101
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4662
+        width: 429
+        height: 446
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f948e46173a9498dc8451df6bcd13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_102
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4063
+        width: 389
+        height: 568
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44523521a34d2c4f942200f19d8cb3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_103
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4063
+        width: 514
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c63e21b25f2141b5fc4a5ea9c6f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_104
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 4063
+        width: 545
+        height: 595
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3cef561a73946419ca7d1c01fb1a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3535
+        width: 579
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7add8ebea52bfc4daf919803b906a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_106
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3535
+        width: 447
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c95b6b530691854883a738c81876e57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3254
+        width: 890
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332dd83683537f41827290283782c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2940
+        width: 917
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467495098d6181647901c75d94c152d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2662
+        width: 947
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb93a4b19961ea45aed5c17275a030a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_110
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2344
+        width: 1001
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834949585c91454197b8fa801724e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1830
+        width: 1150
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba651e2f003d44c9e7381f4e383584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_112
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1384
+        width: 1279
+        height: 422
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa85914009a6ae049849acab1085ab83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_113
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1055
+        width: 1130
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956a0a41a75312e4b9785793c13b6ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Objects_114
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 1279
+        height: 998
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f25c98de8b3f4e8f7d496c88aa7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51070bd74b82e324591451f1e494e8a3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
